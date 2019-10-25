@@ -1,4 +1,4 @@
 # Table of contents
 
-* [blog](README.md)
+* [Greg Notch's Blog](README.md)
 
