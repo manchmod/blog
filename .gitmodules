@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:manchmod/manchmod.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-learn"]
+	path = themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn
