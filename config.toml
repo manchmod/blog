@@ -36,10 +36,14 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "posts"
+        name = "posts"
+        url = "/"
       [[languages.en.menu.main]]
-        identifier = "docs"
-        name = "Documentation"
-        url = "/docs"
+        identifier = "about"
+        name = "about"
+        url = "/about"
+      # [[languages.en.menu.main]]
+      #   identifier = "docs"
+      #   name = "docs"
+      #   url = "/docs"
