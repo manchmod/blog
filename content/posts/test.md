@@ -7,7 +7,7 @@ cover = ""
 #keywords = ["", ""]
 description = "a testing post"
 showFullContent = false
-draft = false
+draft = true
 +++
 # test post
 ## this is some more text
