@@ -14,3 +14,8 @@ draft = false
 ```
 heres some code
 ```
+
+```python3
+import foo
+print ("whatever")
+```
